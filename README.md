@@ -2,7 +2,7 @@
 
 ## Coffee Sale Analysis -- SQL project
 ### About
-We analyze Coffee sales data to identify high performance braches and product s, analyze the sales patterns of various products, and understand customer behavio .
+We analyze Coffee sales data to identify high performance braches and product s, analyze the sales patterns of various products, and understand customer behavior .
 
 ### Approach Used
 ### 1. Data Wrangling
