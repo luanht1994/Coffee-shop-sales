@@ -22,4 +22,4 @@ Perform an analysis on the data to gain insights into different product lines, d
 This analysis is focused on identifying customer behavior, understanding purchasing trends.
 ### Visualization
 Using Power BI tool to visualize all insights.  
-[Coffee Sale Analysis - Power BI link](https://app.powerbi.com/groups/me/reports/67cdfd5e-88e9-4f97-98b1-f73f444a9972/4b3e42c8078b2254727e?experience=power-bi)
+[Coffee Sale Analysis - Power BI link](https://mavenanalytics.io/project/20518)
