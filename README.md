@@ -1,5 +1,7 @@
 # Coffee Sale Analysis
-
+### Visualization
+Using Power BI tool to visualize all insights.  
+[Coffee Sale Analysis - Power BI link](https://mavenshowcase.com/project/20518)
 ## Coffee Sale Analysis -- SQL project
 ### About
 We analyze Coffee sales data to identify high performance braches and product s, analyze the sales patterns of various products, and understand customer behavior .
@@ -20,6 +22,4 @@ The objective of this analysis is to address the inquiry regarding the sales tre
 Perform an analysis on the data to gain insights into different product lines, determine the top-performing product lines, and identify areas for improvement in other product lines.
 #### 3. Customer Analysis
 This analysis is focused on identifying customer behavior, understanding purchasing trends.
-### Visualization
-Using Power BI tool to visualize all insights.  
-[Coffee Sale Analysis - Power BI link](https://mavenanalytics.io/project/20518)
+
